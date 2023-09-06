@@ -1,0 +1,9 @@
+---
+title: "Research Output"
+---
+
+## A piece by The Economist publishes interesting insights regarding the malapportionment in upper chambers
+
+This article, published March 14th (and available [here](https://www.economist.com/graphic-detail/2023/03/14/upper-legislative-houses-tend-to-be-biased-and-malapportioned)) explains that, according to our data, upper chambers tend to be more biased and to have a relatively bigger malapportionment than the lower chambers. It also focuses on the ideological bias of said malapportionment, especially favouring conservatives. Through several graphs, the authors explain in detail the case of the US and Brazil senates.
+
+![](images/article%20the%20economis.png){fig-align="center"}

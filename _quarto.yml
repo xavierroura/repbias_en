@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Projecte REPBIAS"
+  navbar:
+    left:
+      - href: about.qmd
+        text: About
+      - href: team.qmd
+        text: Members
+      - href: research.qmd
+        text: Research output
+    right:
+      - href: https://xavierroura.github.io/repbias_cat/about_cat.html
+        text: En català
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+
+editor: visual
+
