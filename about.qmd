@@ -6,5 +6,5 @@ title: "About the Project"
 
 The research project the objective to generate knowledge about the representation bias in the Spanish State, but also at the international level, through several channels. Some of them are the intentional malapportionment, minorities' rights, or the historical perspective.
 
-![](images/foto%20about.jpg){fig-align="center"}
+#![](images/foto%20about.jpg){fig-align="center"}
 ![](images/micin-UEfse-aei-1024x299.jpg){fig-align="center"}
